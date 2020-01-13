@@ -1,0 +1,47 @@
+/* //pagination area start */
+ul.pagination{
+	display:block;
+	
+}
+.pagination a.active {
+  /* background-color: #4CAF50; */
+  /* color: white; */
+	background-color: #FAB005;
+    color: #fff;
+	
+}
+
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a {
+	
+	padding:10px 20px !important;
+  border: 1px solid #ddd; /* Gray */
+}
+/* //pagination area end */
+
+.card_style123 {
+	margin-top: 2%;
+}
+
+.form_style {
+	padding-left: 15%;
+	padding-top: 10%;
+}
+
+.form_style .form-inline input {
+	width: 60%;
+	background-color: rgba(25, 0, 0, 0.8);
+	border: 4px solid gray;
+	color:yellow;
+	font-weight: bold;
+}
+
+
+.position_login {
+	padding-left: 10%;
+	padding-top: 10%;
+}
+
+
+
